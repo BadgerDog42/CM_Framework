@@ -17,3 +17,8 @@ I won't help you write your code (what fun would that be?!) but I'm more than ha
 this up and running.  I am hidesuru on Reddit as well so feel free to PM me there.  
 
 Of course I say that now assuming this will never get much visibility... lets see if I rev this file in the future.  ;-)
+
+Oh lastly, before I forget again, if you make changes please do not check anything into the trunk (if you even can, I have
+never used github before).  That way this stays the same as what I uploaded and its easier to help people down the road.
+
+Thanks, and enjoy.
